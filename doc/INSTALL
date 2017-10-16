@@ -724,7 +724,7 @@ Configuring Horde Groupware
       Handler`` tab in the Horde setup.
 
    For more information about securing your webserver, PHP and Horde Groupware,
-   see the `docs/SECURITY`_ file.
+   see the `doc/SECURITY`_ file.
 
 
 Temporary Files
@@ -757,7 +757,7 @@ Note for international users: Horde Groupware uses GNU gettext to provide local
 translations of text displayed by applications; the translations are found in
 the po/ directory.  If a translation is not yet available for your locale (and
 you wish to create one), or if you're having trouble using a provided
-translation, please see the `docs/TRANSLATIONS`_ file for instructions.
+translation, please see the `doc/TRANSLATIONS`_ file for instructions.
 
 
 Obtaining Support
@@ -793,8 +793,8 @@ The Horde Team
 
 
 .. _README: README
-.. _docs/SECURITY: ../../horde/docs/SECURITY
-.. _docs/TRANSLATIONS: ../../horde/docs/TRANSLATIONS
+.. _doc/SECURITY: ../../horde/doc/SECURITY
+.. _doc/TRANSLATIONS: ../../horde/doc/TRANSLATIONS
 .. _`curl extension`: http://php.net/curl
 .. _`http extension`: http://php.net/http
 .. _`File Uploads`: http://wiki.horde.org/FAQ/Admin/FileUploads

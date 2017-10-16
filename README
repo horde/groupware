@@ -45,15 +45,15 @@ Documentation
 The following documentation is available in the Horde Groupware distribution:
 
 :README_:                   This file
-:`docs/CHANGES`_:           Changes by release
-:`docs/CODING_STANDARDS`_:  Coding standards for Horde projects
-:`docs/CONTRIBUTING`_:      How to contribute to Horde
-:`docs/CREDITS`_:           Project developers
-:`docs/INSTALL`_:           Installation instructions and notes
-:`docs/PERFORMANCE`_:       Performance guide
-:`docs/RELEASE`_:           Release process notes
-:`docs/SECURITY`_:          Security notes
-:`docs/UPGRADING`_:         Pointers on upgrading from previous Horde Groupware
+:`doc/CHANGES`_:           Changes by release
+:`doc/CODING_STANDARDS`_:  Coding standards for Horde projects
+:`doc/CONTRIBUTING`_:      How to contribute to Horde
+:`doc/CREDITS`_:           Project developers
+:`doc/INSTALL`_:           Installation instructions and notes
+:`doc/PERFORMANCE`_:       Performance guide
+:`doc/RELEASE`_:           Release process notes
+:`doc/SECURITY`_:          Security notes
+:`doc/UPGRADING`_:         Pointers on upgrading from previous Horde Groupware
                             versions
 
 
@@ -61,7 +61,7 @@ Installation
 ------------
 
 Instructions for installing Horde Groupware can be found in the file INSTALL_
-in the ``docs/`` directory of the Horde Groupware distribution.
+in the ``doc/`` directory of the Horde Groupware distribution.
 
 
 Assistance
@@ -101,13 +101,13 @@ The Horde Groupware team
 
 
 .. _README: README
-.. _docs/CHANGES: CHANGES
-.. _docs/CODING_STANDARDS: ../../horde/docs/CODING_STANDARDS
-.. _docs/CONTRIBUTING: ../../horde/docs/CONTRIBUTING
-.. _docs/CREDITS: ../../horde/docs/CREDITS
+.. _doc/CHANGES: CHANGES
+.. _doc/CODING_STANDARDS: ../../horde/doc/CODING_STANDARDS
+.. _doc/CONTRIBUTING: ../../horde/doc/CONTRIBUTING
+.. _doc/CREDITS: ../../horde/doc/CREDITS
 .. _INSTALL:
-.. _docs/INSTALL: INSTALL
-.. _docs/PERFORMANCE: PERFORMANCE
-.. _docs/RELEASE: ../../horde/docs/RELEASE
-.. _docs/SECURITY: ../../horde/docs/SECURITY
-.. _docs/UPGRADING: UPGRADING
+.. _doc/INSTALL: INSTALL
+.. _doc/PERFORMANCE: PERFORMANCE
+.. _doc/RELEASE: ../../horde/doc/RELEASE
+.. _doc/SECURITY: ../../horde/doc/SECURITY
+.. _doc/UPGRADING: UPGRADING
