@@ -7,3 +7,4 @@ description: >
   suite. Users can manage and share calendars, contacts, tasks and notes with
   the standards compliant components from the Horde Project.
 list: horde
+type: application
