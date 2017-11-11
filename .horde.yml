@@ -29,7 +29,9 @@ dependencies:
   required:
     php: ^5.3
     pear:
-      pear.horde.org/webmail: '*'
+      pear.horde.org/webmail:
+        version: '*'
+        conflicts: true
       pear.horde.org/content: ^2.0.3
       pear.horde.org/gollem: ^3.0.1
       pear.horde.org/horde: ^5.1.5
